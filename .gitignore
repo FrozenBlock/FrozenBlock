@@ -1,0 +1,65 @@
+# gradle
+
+.gradle/
+build/
+out/
+classes/
+
+# eclipse
+
+*.launch
+
+# idea
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# vscode
+
+.settings/
+.vscode/
+bin/
+.classpath
+.project
+
+# macos
+
+*.DS_Store
+
+# Minecraft
+
+.fabric/
+.andromeda/
+.commander/mappings/
+.configurable_everything/
+.dark-matter/
+.replay_cache/
+.spyglass_astronomy/
+.bobby/
+XaeroWorldMap/
+saves/
+schematics/
+logs/
+crash-reports/
+screenshots/
+replay_recordings/
+moddata/
+stackdeobf_mappings/
+fancymenu_data/
+modernfix/
+cache/
+config/spark/tmp/
+irisUpdateInfo.json
+profile.json
+usercache.json
+usernamecache.json
+
+
+# Modpack
+
+# Built mrpacks
+client/
+# Built serverpacks
+server/servers/
