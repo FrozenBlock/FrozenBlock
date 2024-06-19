@@ -1,7 +1,7 @@
 version:3953
 ao:true
 biomeBlendRadius:2
-enableVsync:false
+enableVsync:true
 entityDistanceScaling:1.0
 entityShadows:true
 forceUnicodeFont:false
@@ -16,7 +16,7 @@ fullscreen:true
 gamma:1.0
 graphicsMode:1
 guiScale:0
-maxFps:120
+maxFps:260
 mipmapLevels:4
 narrator:0
 particles:0
@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:false
-resourcePacks:["vanilla","fabric","wilderwild:wilder_main_menu","file/music-and-melody-1.21-v1.4.0.zip"]
+resourcePacks:["vanilla","fabric","wilderwild:wilder_main_menu"]
 incompatibleResourcePacks:["craterlib","modernfix","simplerpc","yet_another_config_lib_v3"]
 lastServer:
 lang:en_us
