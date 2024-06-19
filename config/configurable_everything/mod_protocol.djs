@@ -4,11 +4,11 @@
 // It should be used only for non-vanilla compatible modpacks!
 // Protocol version. Needs to be the same on client and server. If it has value of -1, it won't be required by servers.
 // 
-modProtocolVersion: -1
+modProtocolVersion: 1
 // Protocol id. It should be different for every modpack, to prevent joining with mismatched mods.
-modProtocolId: 'my_configurable_everything_modpack'
+modProtocolId: 'frozenblock'
 // A mod protocol name. Used for easier identification. Doesn't affect functionality
-modProtocolName: 'My Configurable Everything Modpack'
+modProtocolName: 'FrozenBlock'
 // Message displayed for players joining with clients incompatible with Registry Sync. Supports strings and Minecraft's JSON text format.
 missingRegistrySyncMessage: '{"value":{"translate":"frozenlib.registry_sync.unsupported_client","fallback":"\\nUnsupported (vanilla?) client!\\nThis server requires modded client to join!\\n"}}'
 // Top part of the message displayed for players joining with incompatible clients. Supports strings and Minecraft's JSON text format.
