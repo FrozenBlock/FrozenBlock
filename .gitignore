@@ -51,10 +51,15 @@ fancymenu_data/
 modernfix/
 cache/
 config/spark/tmp/
+config/sodium-fingerprint.json
+options.txt
 irisUpdateInfo.json
 profile.json
 usercache.json
 usernamecache.json
+realms_persistence.json
+servers.dat
+servers.dat_old
 
 
 # Modpack
