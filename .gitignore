@@ -60,6 +60,9 @@ usernamecache.json
 realms_persistence.json
 servers.dat
 servers.dat_old
+mods/
+command_history.txt
+debug/
 
 
 # Modpack
