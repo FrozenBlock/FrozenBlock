@@ -52,6 +52,7 @@ modernfix/
 cache/
 config/spark/tmp/
 config/sodium-fingerprint.json
+command_history.txt
 options.txt
 irisUpdateInfo.json
 profile.json
